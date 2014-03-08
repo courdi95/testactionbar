@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">TestActionBar</string>
-
+	<string name="action_search">search</string>
+	<string name ="action_settings">settings</string>
 </resources>
